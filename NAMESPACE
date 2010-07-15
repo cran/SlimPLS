@@ -1,0 +1,3 @@
+importFrom(randomForest, randomForest)
+importFrom(e1071, svm)
+export(readExpMat,selectFeatures,selectFeaturesSlimPLS,trainClassifier,getClassification)
